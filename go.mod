@@ -34,8 +34,7 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.4.0
-	github.com/tidwall/gjson v1.1.1
-	github.com/tidwall/match v1.0.0 // indirect
+	github.com/tidwall/gjson v1.9.3
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7 // indirect
 	golang.org/x/net v0.0.0-20190916140828-c8589233b77d
 	golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13 // indirect
