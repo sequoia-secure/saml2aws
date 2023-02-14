@@ -13,7 +13,7 @@ require (
 	github.com/andybalholm/cascadia v1.0.0 // indirect
 	github.com/aulanov/go.dbus v0.0.0-20150729231527-25c3068a42a0 // indirect
 	github.com/avast/retry-go v2.6.0+incompatible
-	github.com/aws/aws-sdk-go v1.23.15
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/beevik/etree v1.0.1
 	github.com/danieljoos/wincred v1.0.1
 	github.com/dvsekhvalnov/jose2go v0.0.0-20170216131308-f21a8cedbbae // indirect
@@ -28,16 +28,16 @@ require (
 	github.com/mitchellh/go-homedir v1.0.0
 	github.com/onsi/ginkgo v1.10.1 // indirect
 	github.com/onsi/gomega v1.7.0 // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.0.5
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	github.com/tidwall/gjson v1.1.1
 	github.com/tidwall/match v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7 // indirect
-	golang.org/x/net v0.0.0-20190916140828-c8589233b77d
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13 // indirect
 	golang.org/x/text v0.3.2 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
